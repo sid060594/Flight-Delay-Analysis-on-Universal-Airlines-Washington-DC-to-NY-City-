@@ -1,5 +1,5 @@
 ##loading CSV file into R
-features = read.csv("C:/Users/vsawa/Desktop/features.csv", header = T)
+features = read.csv("C:/Users/siddharth/Desktop/features.csv", header = T)
 
 
 #loading data from CSV file into variables
