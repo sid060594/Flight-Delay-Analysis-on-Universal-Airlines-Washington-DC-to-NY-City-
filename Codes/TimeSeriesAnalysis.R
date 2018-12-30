@@ -1,6 +1,6 @@
 
 ##loading data from csv file into R
-flight = read.csv("C:/Users/vsawa/Desktop/FinalData.csv",header = TRUE)
+flight = read.csv("C:/Users/sid/Desktop/FinalData.csv",header = TRUE)
 
 
 ##loading data into variables
